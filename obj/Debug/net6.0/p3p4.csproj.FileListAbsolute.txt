@@ -275,3 +275,4 @@ D:\MPHASIS PROJECTS\Phase-4\p3p4\p3p4\bin\Debug\net6.0\runtimes\win-arm64\native
 D:\MPHASIS PROJECTS\Phase-4\p3p4\p3p4\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\MPHASIS PROJECTS\Phase-4\p3p4\p3p4\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\MPHASIS PROJECTS\Phase-4\p3p4\p3p4\obj\Debug\net6.0\p3p4.csproj.Up2Date
+D:\MPHASIS PROJECTS\Phase-4\p3p4\p3p4\obj\Debug\net6.0\p3p4.sourcelink.json
